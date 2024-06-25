@@ -4,7 +4,7 @@ Evil App is an intentionally vulnerable Golang application intended for learning
 * Reflected Cross-Site Scripting (XSS)
 
 Upcoming vulnerabilities:
-* Command Injection
+* Command Injection 
 * Path Traversal
 
 # Pre-Requisites
