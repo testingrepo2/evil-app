@@ -15,7 +15,7 @@ Upcoming vulnerabilities:
 * contrast-go >= 0.14.0
 * contrast-service >= 2.19.0
 
-# Normal Build/Run Instructions
+# Normal Build/Run Instructions 
 ## Build
 ```bash
 go build
